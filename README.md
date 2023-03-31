@@ -28,7 +28,7 @@ the American Sign Language (ASL)
 ![](./datasample.png)
 ### 2-LOADING DATA : using customized function to load the images and thier labels into numpy array.
 ### 3- spliting the data and encoding the labels.
-### 4- using pretrained vgg16 model with imagenet wieghts .
+### 4- using pre-trained vgg16 model with imagenet wieghts .
 ### 5- feeding the data to the model and start trainning .
 ### 6- high accuracy 99 to 100 % on train and validation
 ### 7- using open cv and mediapipe for real_time and passing the cropped photo to the model 
