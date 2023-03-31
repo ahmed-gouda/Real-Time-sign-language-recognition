@@ -1,5 +1,5 @@
-# Real_Time-sign-language-recognition (words edition)
-## final result samples :
+# Real_Time-sign-Language-Recognition (WORDS EDITION)
+## Final Result Samples :
 ### Hello Sign
 ![](./hello.png)
 ### Please Sign
@@ -8,3 +8,7 @@
 ![](./telephone.png)
 ### Sorry Sign
 ![](./sorry.png)
+## PROJECT STEPS
+## DATA COLLECTION :
+### Using open cv and  mediapipe_line library to detect hand using webcam :
+![](./data collection.png)
