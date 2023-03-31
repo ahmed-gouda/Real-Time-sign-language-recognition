@@ -1,4 +1,4 @@
-# Real_Time-sign-Language-Recognition (WORDS EDITION)
+# Real-Time-sign-Language-Recognition (WORDS EDITION)
 
 
 Hand gestures are a powerful way for human communication, with lots of 
